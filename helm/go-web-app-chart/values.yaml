@@ -8,7 +8,7 @@ image:
   repository: lalitaum/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "19120903224"
+  tag: "19121633433"
 
 ingress:
   enabled: false
